@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a778f6f3-ccb1-4885-bf5e-5ba2aaefb964" name="Changes" comment="Update ESLint configuration and ESLint-related dependencies in React App&#10;&#10;Modified the ESLint configuration file in the React App. The changes include updating and adding more specific rules, adding some parserOptions and plugins. Updates have also been made to the ESLint-related dependencies in the package.json and package-lock.json files. Miscellaneous updates have been done in the .idea/workspace.xml file and small changes in components in the application.">
-      <change afterPath="$PROJECT_DIR$/.prettyignore" afterDir="false" />
+    <list default="true" id="a778f6f3-ccb1-4885-bf5e-5ba2aaefb964" name="Changes" comment="Integrate eslint-config-prettier into project config files&#10;&#10;Integrates 'eslint-config-prettier' plugin in 'vite.config.js' and updates ESLint configuration in '.eslintrc.cjs'. Additionally, adds 'eslint-config-prettier' and 'prettier' to package dependencies. Also, includes semi-colons for better code readability across several files and creates '.prettyignore'.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/.eslintrc.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/.eslintrc.cjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/src/First.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/src/First.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +122,7 @@
       <workItem from="1701057893889" duration="151000" />
       <workItem from="1701058056365" duration="39000" />
       <workItem from="1702668804452" duration="170000" />
-      <workItem from="1702669041372" duration="4798000" />
+      <workItem from="1702669041372" duration="6027000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -152,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702671539711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Integrate eslint-config-prettier into project config files&#10;&#10;Integrates 'eslint-config-prettier' plugin in 'vite.config.js' and updates ESLint configuration in '.eslintrc.cjs'. Additionally, adds 'eslint-config-prettier' and 'prettier' to package dependencies. Also, includes semi-colons for better code readability across several files and creates '.prettyignore'.">
+      <option name="closed" value="true" />
+      <created>1702674969638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702674969638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="Update ESLint configuration and ESLint-related dependencies in React App&#10;&#10;Modified the ESLint configuration file in the React App. The changes include updating and adding more specific rules, adding some parserOptions and plugins. Updates have also been made to the ESLint-related dependencies in the package.json and package-lock.json files. Miscellaneous updates have been done in the .idea/workspace.xml file and small changes in components in the application." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update ESLint configuration and ESLint-related dependencies in React App&#10;&#10;Modified the ESLint configuration file in the React App. The changes include updating and adding more specific rules, adding some parserOptions and plugins. Updates have also been made to the ESLint-related dependencies in the package.json and package-lock.json files. Miscellaneous updates have been done in the .idea/workspace.xml file and small changes in components in the application." />
+    <MESSAGE value="Integrate eslint-config-prettier into project config files&#10;&#10;Integrates 'eslint-config-prettier' plugin in 'vite.config.js' and updates ESLint configuration in '.eslintrc.cjs'. Additionally, adds 'eslint-config-prettier' and 'prettier' to package dependencies. Also, includes semi-colons for better code readability across several files and creates '.prettyignore'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrate eslint-config-prettier into project config files&#10;&#10;Integrates 'eslint-config-prettier' plugin in 'vite.config.js' and updates ESLint configuration in '.eslintrc.cjs'. Additionally, adds 'eslint-config-prettier' and 'prettier' to package dependencies. Also, includes semi-colons for better code readability across several files and creates '.prettyignore'." />
   </component>
 </project>
