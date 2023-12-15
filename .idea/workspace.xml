@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a778f6f3-ccb1-4885-bf5e-5ba2aaefb964" name="Changes" comment="initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-first-react-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-react-app/.eslintrc.cjs" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/.eslintrc.cjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-react-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-first-react-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-react-app/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ali-zargari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="94b9eab8-0ec2-4a3d-ad4a-a8fd1757fd27" />
+        <option name="url" value="https://github.com/ali-zargari/Odin-React.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,7 +50,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aliza/IdeaProjects/React_Lessons&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aliza/WebstormProjects/Odin-React&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -100,6 +117,15 @@
       <workItem from="1696991813565" duration="147000" />
       <workItem from="1696991983367" duration="12000" />
       <workItem from="1696992249086" duration="10000" />
+      <workItem from="1700190298113" duration="784000" />
+      <workItem from="1700379111549" duration="1000" />
+      <workItem from="1700456593661" duration="550000" />
+      <workItem from="1700580252600" duration="13000" />
+      <workItem from="1700902942925" duration="1000" />
+      <workItem from="1701057893889" duration="151000" />
+      <workItem from="1701058056365" duration="39000" />
+      <workItem from="1702668804452" duration="170000" />
+      <workItem from="1702669041372" duration="2339000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -128,6 +154,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
